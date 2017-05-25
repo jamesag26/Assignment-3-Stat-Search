@@ -1,1 +1,3 @@
 # Assignment-3-Stat-Search
+For this assignment, based upon user input on the webpage, the project will search a json file, if the file exists, that the user provides the name of. Then the program will search for either the highest or lowest value for a statistic provided by the user and then display it for the user. 
+The project contains the json files the user would have been able to search through for the statistics. It also contains the php program which, when the user accesses the file, would provide them with the form to fill out to determine which json file to search, which stat to search for and whether they want the highest or lowest value. It then would display this value for the user.
